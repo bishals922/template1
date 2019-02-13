@@ -1,0 +1,113 @@
+{
+	
+}
+body{
+	background-color: #000f;
+
+
+}
+.wrapper{
+	width: 80%;
+	margin: 0 auto;
+	background-image: url(loshar.jpg); background-repeat: no-repeat;
+	//height: 100%;
+	min-height: 100%;
+}
+{
+	margin:0;
+	padding:0;
+}
+header
+{
+	height:inherit;
+	background-size:cover;
+	background-position:center;
+
+}
+.img
+{
+	width:50%;
+	float: left;
+}
+.nav-bar
+{
+	top: 0;
+	background:rgb(0,0,0.5);
+	//height:80px;
+	display: block;
+}
+.menu{
+	top:0;
+	float: left;
+	list-style:none;
+}
+.menu li{
+	float: left;
+	margin:10px 5px;
+	border:1px solid #fff;
+	padding: 5px;
+}
+h3{
+	width: 33.33%;
+	float: left;
+	
+	
+}
+.menu li:hover{
+	color: #f0f;
+	background-color: #0f3;
+	
+}
+.menu li a{
+	text-decoration:none;
+	color:#fff;
+	font-family:sans-serif;
+	letter-spacing:2px;
+}
+.menu li a; hover{
+	background:#fff;
+	transition: .4s;
+	color: #000;
+}
+.welcome{
+	position:relative;
+	text-align:center;
+	font-family:sans-serif;
+	color: #fff;
+	top: 100px;
+	float: left;
+}
+.center{
+	font-size:42px;
+	color:#fff;
+	text-align: center;
+}
+.btn{
+	font-size:18px;
+	letter-spacing:2px;
+	margin:7px 10px;
+	padding:7px 10px;
+	text-decoration:none;
+	border:1px solid #fff;
+	background: #fff;
+	color: #000;
+}
+.btn:hover{
+	background: #ff9;
+	color: #00a;
+	transition:.4s;
+}
+.col-md-3{
+	text-align: justify-all;
+	color: #fff;
+	margin-top: 300px;
+	padding: 5px;
+}
+.clear{
+	clear: both;
+}
+.footer{
+	bottom: 0;
+	position: absolute;
+	text-align: center;
+}

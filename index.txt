@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>webpage design in html and css </title>
+<link href="stylesheet.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header>
+<div class="nav-bar">
+<ul class="menu">
+<li><a href="Importance of loshar">Importance of loshar</a></li>
+<li><a herf="Name of Loshar celebrated in Nepal">Name of Loshar Celebrated in Nepal</a></li>
+<li><a herf="Cast celebrating loshar">Cast celebrating loshar</a></li>
+<li><a herf="images">images</a></li>
+</ul>
+</div>
+<h1 class="center"> It's my first channel</h1>
+</header>
+<div class="Welcome">
+<a href="#" class="btn btn1">like page</a>
+<a herf="#" class="btn btn2">dislike page</a>
+</div>
+<!-----------------------Importance of Loshar ------------------------>
+<section id="Importance of Loshar">
+<div class="Row Services">
+<div class="col-md-3text=center">
+<p>Losar is one of the main festivals in Nepal. The festival is celebrated in Buddhist religion follower community like Tamang, Sherpa, Gurung and Thakali etc. who live in the hilly and the mountainous region. The literal meaning of losar is New Year and follows the cycle of 12 years called Lohokor.  Barga (Lo)is the special name given to each year and represented by different animals with its reputed attributes like mouse, cow, tiger, cat, garuda, serpent, horse, sheep, monkey, bird, dog and deer,. The cycle of animals is arranged in a single circle printed on a paper or a cloth. In Nepal when there was no calendar, the 12 rotation system was used to calculate peoples’ ages. 
+
+On the very day of the festival the people visit the monasteries and stupas to pray, worship and have blessing from the monks for happiness and wellbeing. The stupas, monasteries, houses rooftop and mountain top are decorated with new colorful prayer flags and colorful decorative items to bring peace and harmony to the nation. The ethnic people clad in their traditional costumes perform their cultural singing and dancing welcoming the New Year with feasts and family gathering. On the occasion of Loshar the Government of Nepal announces public holidays. So, the festival is celebrated in the full swing across the country.</p> 
+</section>
+</body>
+</html>
