@@ -111,3 +111,14 @@ h3{
 	position: absolute;
 	text-align: center;
 }
+
+.images-c{
+	margin-top: 250px;
+	padding: 5px 10px;
+}
+.images-c img{
+	height: 300px
+	width: 250px;
+	margin: 5px 8px;
+}
+
